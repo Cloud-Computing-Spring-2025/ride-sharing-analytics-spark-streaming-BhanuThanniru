@@ -1,0 +1,3 @@
+v1
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-BhanuThanniru/output/ride_data/part-00000-10c8887c-689e-4328-a8c1-0a754eeee3e2-c000.csv","size":359,"isDir":false,"modificationTime":1743550200232,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-BhanuThanniru/output/ride_data/part-00001-3c302a58-674d-4884-b3d1-1a120854325a-c000.csv","size":364,"isDir":false,"modificationTime":1743550200228,"blockReplication":1,"blockSize":33554432,"action":"add"}
